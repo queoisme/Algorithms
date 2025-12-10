@@ -7,27 +7,31 @@
 using namespace std;
 int n, q, p, a[100005];
 
-bool is_connection(int q, int p){
-	return q == p;
-} 
+int root(int i){
+	while(a[i] != i)
+	{
+		i = a[i];
+	}
+	return i;
+}
 
 void Union(int q, int p){
-	int qid = a[q], pid = a[p];
-	L(i, 0, n - 1){
-		if(a[i] == qid){
-			a[i] = pid;
-		}
-	}
+	int i = root(q);
+	int j = root(p);
+
+	a[i] = j;
+}
+
+bool is_connection(int q, int p){
+	return root(q) == root(p);
 }
 
 int main(){
     ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
     freopen("input.txt", "r", stdin);freopen("output.txt", "w", stdout);
     cin >> n;
-   	L(i, 0, n - 1) a[i] = i;
-    while(cin >> q >> p)
-    {
+    while(cin >> q >> p){
     	Union(q, p);
     }
-    
+    cout << is_connection(1, 0); el;
 }
