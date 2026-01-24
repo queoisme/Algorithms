@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coursera-Algorithms\\Part-1\\Sorting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03777595-B9E4-4879-9AE0-FB6FD4804DF2}|InsertionSort\\InsertionSort.csproj|d:\\coursera-algorithms\\part-1\\sorting\\insertionsort\\insertionsorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03777595-B9E4-4879-9AE0-FB6FD4804DF2}|InsertionSort\\InsertionSort.csproj|solutionrelative:insertionsort\\insertionsorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03777595-B9E4-4879-9AE0-FB6FD4804DF2}|InsertionSort\\InsertionSort.csproj|d:\\coursera-algorithms\\part-1\\sorting\\insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03777595-B9E4-4879-9AE0-FB6FD4804DF2}|InsertionSort\\InsertionSort.csproj|solutionrelative:insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03777595-B9E4-4879-9AE0-FB6FD4804DF2}|InsertionSort\\InsertionSort.csproj|d:\\coursera-algorithms\\part-1\\sorting\\insertionsort\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03777595-B9E4-4879-9AE0-FB6FD4804DF2}|InsertionSort\\InsertionSort.csproj|solutionrelative:insertionsort\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertionSorting.cs",
+              "DocumentMoniker": "D:\\Coursera-Algorithms\\Part-1\\Sorting\\InsertionSort\\InsertionSorting.cs",
+              "RelativeDocumentMoniker": "InsertionSort\\InsertionSorting.cs",
+              "ToolTip": "D:\\Coursera-Algorithms\\Part-1\\Sorting\\InsertionSort\\InsertionSorting.cs",
+              "RelativeToolTip": "InsertionSort\\InsertionSorting.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T15:24:01.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Coursera-Algorithms\\Part-1\\Sorting\\InsertionSort\\Student.cs",
+              "RelativeDocumentMoniker": "InsertionSort\\Student.cs",
+              "ToolTip": "D:\\Coursera-Algorithms\\Part-1\\Sorting\\InsertionSort\\Student.cs",
+              "RelativeToolTip": "InsertionSort\\Student.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T15:11:45.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coursera-Algorithms\\Part-1\\Sorting\\InsertionSort\\Program.cs",
+              "RelativeDocumentMoniker": "InsertionSort\\Program.cs",
+              "ToolTip": "D:\\Coursera-Algorithms\\Part-1\\Sorting\\InsertionSort\\Program.cs",
+              "RelativeToolTip": "InsertionSort\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T15:10:23.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 47,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
